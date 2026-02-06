@@ -1,3 +1,4 @@
+
 GENAI-POWERED LEGAL ASSISTANT FOR SMEs
 Project Title:
 GenAI-Powered Legal Assistant for Small and Medium Enterprises (SMEs)
@@ -121,8 +122,6 @@ JSON-based audit logs
 Enhanced multilingual output
 
 Author:
-Jagadeeshwaran M
-B.Tech Computer Science and Engineering
+Nallabothu Jaswanth
+B.Tech Computer Science and Engineering(AIML)
 
-License:
-MIT License
