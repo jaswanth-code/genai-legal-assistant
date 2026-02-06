@@ -1,4 +1,7 @@
+# GenAI Legal Assistant (Hackathon Project)
 
+🎥 Demo Video:
+https://drive.google.com/file/d/1CEdetuW3eX_kwQxUvBmgx8H3BfcMbA4O/view?usp=drive_link
 GENAI-POWERED LEGAL ASSISTANT FOR SMEs
 Project Title:
 GenAI-Powered Legal Assistant for Small and Medium Enterprises (SMEs)
